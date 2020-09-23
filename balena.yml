@@ -6,4 +6,13 @@ applicationEnvironmentVariables:
     - ENABLE_GPU: 1   
     - KIOSK: 1
     - PERSISTENT: 1
+    - SSID: balenaDash
+    - PASS: balenaDash
+    - LAUNCH_URL: ""
+    - ROTATE_DISPLAY: normal
+    - WINDOW_SIZE: ""
+    - WINDOW_POSITION: 0,0
+    - LOCAL_HTTP_DELAY: 0
+    - FBCP_DISPLAY: ""
+
 
